@@ -9,6 +9,14 @@ Docker
 ## Usage
 
 ```sh
+git clone https://github.com/SamuelB7/telemetry-service.git
+```
+
+```sh
+cd telemetry-service
+```
+
+```sh
 docker compose up
 ```
 
